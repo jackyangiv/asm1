@@ -1,0 +1,21 @@
+.city-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem;
+}
+.city-img > div {
+  margin-left: 2rem;
+}
+.size-img {
+  position: relative;
+  text-align: center;
+  width: 95%;
+  border-radius: 25px;
+}
+.text-img {
+  position: absolute;
+  bottom: 500px;
+  left: 50px;
+  color: rgb(255, 0, 0);
+}

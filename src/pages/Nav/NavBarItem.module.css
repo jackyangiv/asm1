@@ -1,0 +1,27 @@
+.test {
+  border: 1px solid #ffffff;
+  border-radius: 40px;
+  padding: 10px;
+}
+button {
+  border: none;
+}
+span {
+  padding: 5px;
+}
+.nav {
+  background-color: rgb(255, 255, 255);
+}
+.bg-nav {
+}
+.text-nav {
+  color: antiquewhite;
+  background-color: transparent;
+}
+.position-nav {
+  position: relative;
+}
+.position-nav-search {
+  position: absolute;
+  background-color: #73ad21;
+}

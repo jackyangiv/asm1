@@ -1,0 +1,14 @@
+.list-img {
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  width: 90%;
+  height: 90%;
+}
+.list-link {
+  color: rgb(19, 19, 194);
+  border-bottom: 1px solid rgb(19, 19, 194);
+}
+p,
+h6 {
+  line-height: 1.6;
+}
